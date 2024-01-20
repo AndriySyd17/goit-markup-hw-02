@@ -44,10 +44,10 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.header-address-list :hover {
+.header-soc-link :hover {
     color: #404bbf;
 }
-.header-address-list :focus {
+.header-soc-link :focus {
     color: #404bbf;
 }
 .section-business {
