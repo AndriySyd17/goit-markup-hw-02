@@ -10,7 +10,7 @@ ul {
     list-style-type: none;
 }
 .header-logo {
-    color: var(--IRIS, #4D5AE5);
+    color: #4D5AE5;
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
