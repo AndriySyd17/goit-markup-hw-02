@@ -65,7 +65,7 @@ ul {
 .section-button {
     color: var(--WHITE, #FFF);
     background-color: #4D5AE5;
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -139,7 +139,7 @@ ul {
     color: var(--NAVY-BLUE, #2E2F42);
     font-size: 20px;
     font-weight: 500;
-    line-height: 12; /* 120% */
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 .section-portfolio-text {
@@ -154,7 +154,7 @@ ul {
 }
 .footer-logo {
     color: var(--IRIS, #4D5AE5);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -163,7 +163,7 @@ ul {
 }
 .part-footer-logo {
     color: var(--CLOUD, #F4F4FD);
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
