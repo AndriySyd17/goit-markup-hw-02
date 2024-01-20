@@ -51,9 +51,10 @@ ul {
     color: #404bbf;
 }
 .section-business {
-    background-color: #2E2F42;
+    background: var(--NAVY-BLUE, #2E2F42);
 }
 .section-solution-heading {
+    color: var(--WHITE, #FFF);
     text-align: center;
     font-size: 56px;
     font-style: normal;
@@ -62,9 +63,10 @@ ul {
     letter-spacing: 0.02em;
 }
 .section-button {
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.5; /* 150% */
-letter-spacing: 0.04em;
+    color: var(--WHITE, #FFF);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5; /* 150% */
+    letter-spacing: 0.04em;
 }
