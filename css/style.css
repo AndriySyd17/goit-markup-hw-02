@@ -71,4 +71,11 @@ ul {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
+}
+.section-button :hover {
+    background-color: #404BBF;
+}
+.section-button :focus {
+    background-color: #404BBF;
 }
