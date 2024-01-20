@@ -10,12 +10,21 @@ ul {
     list-style-type: none;
 }
 .header-logo {
-    font-family: "Raleway", sans-serif;
-    color: var(--NAVY-BLUE, #2E2F42);
+    color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.03px;
+    line-height: 1.17; 
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.part-heder-logo {
+    color: var(--IRIS,#2E2F42);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .header-menu-item {
