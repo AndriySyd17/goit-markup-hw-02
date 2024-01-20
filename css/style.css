@@ -44,10 +44,10 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.header-soc-link .link:hover {
+.header-address-list .link:hover {
     color: #404bbf;
 }
-.header-soc-link .link:focus {
+.header-address-list .link:focus {
     color: #404bbf;
 }
 .section-business {
@@ -157,7 +157,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -166,7 +166,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
