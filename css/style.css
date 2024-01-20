@@ -34,10 +34,10 @@ ul {
     line-height: 1.5; 
     letter-spacing: 0.02em;
 }
-.header-menu-item :hover {
+.header-menu-list :hover {
     color: #404bbf;
 }
-.header-menu-item :focus {
+.header-menu-list :focus {
     color: #404bbf;
 }
 .header-address {
