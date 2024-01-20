@@ -34,12 +34,6 @@ ul {
     line-height: 1.5; 
     letter-spacing: 0.02em;
 }
-.header-soc-link :hover {
-    color: #404bbf;
-}
-.header-soc-link :focus {
-    color: #404bbf;
-}
 .header-address {
     font-style: normal;
 }
@@ -79,10 +73,10 @@ ul {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.section-button .link:hover {
+.section-button :hover {
     background-color: #404BBF;
 }
-.section-button .link:focus {
+.section-button :focus {
     background-color: #404BBF;
 }
 .section-features {
