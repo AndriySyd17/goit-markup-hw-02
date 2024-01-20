@@ -42,3 +42,9 @@ ul {
     letter-spacing: 0.02em;
     font-style: normal;
 }
+.header-link :hover {
+    color: #404bbf;
+}
+.header-link :focus {
+    color: #404bbf;
+}
