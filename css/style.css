@@ -34,6 +34,12 @@ ul {
     line-height: 1.5; 
     letter-spacing: 0.02em;
 }
+.header-menu-item :hover {
+    color: #404bbf;
+}
+.header-menu-item :focus {
+    color: #404bbf;
+}
 .header-address {
     font-style: normal;
 }
