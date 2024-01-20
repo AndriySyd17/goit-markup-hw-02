@@ -53,3 +53,12 @@ ul {
 .section-business {
     background-color: #2E2F42;
 }
+.section-solution-heading {
+    color: var(--WHITE, #FFF);
+    text-align: center;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 107;
+    letter-spacing: 0.02em;
+}
