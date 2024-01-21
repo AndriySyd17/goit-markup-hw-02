@@ -79,10 +79,10 @@ ul {
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.section-business :hover {
+.section-button :hover {
     background-color: #404BBF;
 }
-.section-business :focus {
+.section-button :focus {
     background-color: #404BBF;
 }
 .section-features {
